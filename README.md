@@ -1,5 +1,4 @@
 # Snake-python
-![Alt text](screenshot/screenshot.png?raw=true "Title")
 ####Snake written in python with pygame
 #### snake.0.0.2
     Added screenshot
@@ -7,3 +6,5 @@
     Readme log
 #### snake.0.0.1
     Snake init commit
+
+![Alt text](screenshot/screenshot.png?raw=true "Title")
